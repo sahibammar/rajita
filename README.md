@@ -1,4 +1,7 @@
-# rajita
+# Rajita
+
+![ScreenShot](https://raw.githubusercontent.com/sahibammar/rajita/master/img/snapshot0.png)
+
 Rajita is a simple windows desktop app to prepare and print medical descriptions. The application is designed according to the requirements of the doctors in Iraq.
 
 ## Overview
@@ -13,4 +16,6 @@ The installation package is already prepared and published in https://rajita.fir
 ## Contact
 To contact me, please write to me via the facebook page https://www.facebook.com/1069882199886602
 
-![ScreenShot](https://raw.githubusercontent.com/sahibammar/rajita/master/img/snapshot0.png)
+# User manual
+No user manual is provided but the application should be very easy to install and use
+![ScreenShot](https://raw.githubusercontent.com/sahibammar/rajita/master/img/snapshot1.png)
