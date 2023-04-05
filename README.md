@@ -8,7 +8,7 @@ Rajita is a simple windows desktop app to prepare and print medical descriptions
 The project is developed using Microsoft C sharp. The application does not require a database to store the data, instead files are used which make the application very easy to install with no further dependencies.
 
 ## Configuration
-The application is already configured and comes with a list of more than 2700 medications wich align with the database recommended by the public health authorities in Iraq. 
+The application is already configured and comes with a list of more than 2700 medications which align with the database recommended by the public health authorities in Iraq. 
 
 ## Installation 
 You can build and packge the application yourself but the application is already packaged and published in [official website](https://rajita.firebaseapp.com) you can simply download, install and run
