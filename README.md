@@ -19,3 +19,5 @@ To contact me, please write to me via the facebook page https://www.facebook.com
 # User manual
 No user manual is provided but the application should be very easy to install and use
 ![ScreenShot](https://raw.githubusercontent.com/sahibammar/rajita/master/img/snapshot1.png)
+
+![ScreenShot](https://raw.githubusercontent.com/sahibammar/rajita/master/img/snapshot2.png)
