@@ -19,7 +19,7 @@ No user manual is provided but the application should be very easy to install an
 ## Bug fixes
 If you find any bug or you have any ideas for improving the application feel free to contact me.
 
-### Contact
+## Contact
 To contact me, please write to me via the [facebook page](https://www.facebook.com/1069882199886602)
 
 ![ScreenShot](https://raw.githubusercontent.com/sahibammar/rajita/master/img/snapshot1.png)
