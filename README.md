@@ -13,13 +13,13 @@ The application is already configured and comes with a list of more than 2700 me
 ## Installation 
 You can build and packge the application yourself but the application is already packaged and published in [official website](https://rajita.firebaseapp.com) you can simply download, install and run
 
-# User manual
+## User manual
 No user manual is provided but the application should be very easy to install and use. Please visit this [usage demo](https://fb.watch/jJy2MhK9Us/) on Facebook page.
 
-# Bug fixes
+## Bug fixes
 If you find any bug or you have any ideas for improving the application feel free to contact me.
 
-## Contact
+### Contact
 To contact me, please write to me via the [facebook page](https://www.facebook.com/1069882199886602)
 
 ![ScreenShot](https://raw.githubusercontent.com/sahibammar/rajita/master/img/snapshot1.png)
