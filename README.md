@@ -11,13 +11,16 @@ The project is developed using Microsoft C sharp. The application does not requi
 The application is already configured and comes with a list of more than 2700 medications wich align with the database recommended by the public health authorities in Iraq. 
 
 ## Installation 
-The installation package is already prepared and published in [official website](https://rajita.firebaseapp.com)
-
-## Contact
-To contact me, please write to me via the [facebook page](https://www.facebook.com/1069882199886602)
+You can build and packge the application yourself but the application is already packaged and published in [official website](https://rajita.firebaseapp.com) you can simply download, install and run
 
 # User manual
 No user manual is provided but the application should be very easy to install and use. Please visit this [usage demo](https://fb.watch/jJy2MhK9Us/) on Facebook page.
+
+# Bug fixes
+If you find any bug or you have any ideas for improving the application feel free to contact me.
+
+## Contact
+To contact me, please write to me via the [facebook page](https://www.facebook.com/1069882199886602)
 
 ![ScreenShot](https://raw.githubusercontent.com/sahibammar/rajita/master/img/snapshot1.png)
 
