@@ -7,4 +7,4 @@ The installation package is already prepared and published in https://rajita.fir
 
 To contact me, please write to me via the facebook page https://www.facebook.com/1069882199886602
 
-![Rajita UI](https://github.com/sahibammar/rajita/blob/master/img/snapshot0.png?raw=true)
+![alt text](https://github.com/sahibammar/rajita/blob/master/img/snapshot0.png?raw=true)
